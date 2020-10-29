@@ -1,4 +1,22 @@
 Tipo de transacción: Transferencia
-Hora: 10
+Hora: 10 Fecha: 29/10/2020
 Tipo de transacción: Retiro
-Hora: 10
+Hora: 10 Fecha: 29/10/2020
+Tipo de transacción: Transferencia
+Hora: 10 Fecha: 29/10/2020
+Tipo de transacción: Transferencia
+Hora: 16/28/24 Fecha: 29/10/2020
+Tipo de transacción: Transferencia
+Hora: 16/28/24 Fecha: 29/10/2020
+Tipo de transacción: Retiro
+Hora: 16/28/24 Fecha: 29/10/2020
+Tipo de transacción: Transferencia
+Hora: 16/28/24 Fecha: 29/10/2020
+Tipo de transacción: Transferencia
+Hora: 16:31:53 Fecha: 29/10/2020
+Tipo de transacción: Retiro
+Hora: 16:31:53 Fecha: 29/10/2020
+Tipo de transacción: Transferencia
+Hora: 16:31:53 Fecha: 29/10/2020
+Tipo de transacción: Retiro
+Hora: 16:31:53 Fecha: 29/10/2020
