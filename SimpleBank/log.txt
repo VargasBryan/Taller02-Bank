@@ -1,0 +1,4 @@
+Tipo de transacción: Transferencia
+Hora: 10
+Tipo de transacción: Retiro
+Hora: 10

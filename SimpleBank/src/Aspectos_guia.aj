@@ -1,10 +1,7 @@
+import java.io.File;
+import java.util.Calendar;
 
-class Aspectos_guia{
-	//Esta clase debe ser eliminada
-}
-
-/*
-public aspect Log {
+public aspect Aspectos_guia {
 
     File file = new File("log.txt");
     Calendar cal = Calendar.getInstance();
@@ -15,7 +12,7 @@ public aspect Log {
     }
 }
 
-
+/*
 public aspect Logger {
 
     pointcut success() : call(* create*(..) );
